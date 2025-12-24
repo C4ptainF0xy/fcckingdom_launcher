@@ -78,7 +78,7 @@ Pipeline entièrement automatisé avec **GitHub Actions** :
 - 🚀 **Déploiement via SFTP** vers le serveur de mise à jour.
 - 🧾 **Génération dynamique** du manifeste `release.json` (signatures, hash, URLs).
 
-![GitHub Workflow](https://files.prismodev.fr/index.php/s/G5YEqLMtaXwHy9A/download)
+![GitHub Workflow](https://files.prismodev.fr/index.php/s/3mJ9MFesMK2SQPo/download)
 
 ### 🔒 Backend & Communication
 - **Rust/Tauri** : cœur applicatif, IPC et gestion du runtime.
