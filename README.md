@@ -1,7 +1,7 @@
 ﻿<div align="center">
-  <img src="https://files.prismodev.fr/s/ppcSPGYkQPoF7WJ/download" alt="FCCKingdom Logo" width="160" />
+  <img src="https://files.prismodev.fr/index.php/s/B76w5zi9dseRxsx/download" alt="FCCKingdom Logo" width="160" />
   <h1>FCCKingdom Launcher</h1>
-  <h3>Un launcher Minecraft multi-plateforme, natif et connecté • développé par <a href="https://files.prismodev.fr/index.php/s/B76w5zi9dseRxsx/download">PrismoDEV</a></h3>
+  <h3>Un launcher Minecraft multi-plateforme, natif et connecté • développé par <a href="https://prismodev.fr">PrismoDEV</a></h3>
 </div>
 
 ---
