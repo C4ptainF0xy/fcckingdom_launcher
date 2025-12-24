@@ -1,7 +1,7 @@
 ﻿<div align="center">
   <img src="https://files.prismodev.fr/s/ppcSPGYkQPoF7WJ/download" alt="FCCKingdom Logo" width="160" />
   <h1>FCCKingdom Launcher</h1>
-  <h3>Un launcher Minecraft multi-plateforme, natif et connecté • développé par <a href="https://files.prismodev.fr/s/qrPfeMBFz8KXJD8/download">PrismoDEV</a></h3>
+  <h3>Un launcher Minecraft multi-plateforme, natif et connecté • développé par <a href="https://files.prismodev.fr/index.php/s/B76w5zi9dseRxsx/download">PrismoDEV</a></h3>
 </div>
 
 ---
@@ -62,11 +62,11 @@ Conçue avec **React**, **TypeScript**, **Vite** et **TailwindCSS**, l’interfa
 
 | Menu Principal | Skins | Galerie |
 | :---: | :---: | :---: |
-| ![Menu Principal](https://files.prismodev.fr/s/JTLGXfPbAD8kxmE/download) | ![Gestionnaire de Skins](https://files.prismodev.fr/s/5gTrXJ3fr29aaKQ/download) | ![Galerie](https://files.prismodev.fr/s/AdBNZxFa9CmnT2A/download) |
+| ![Menu Principal](https://files.prismodev.fr/index.php/s/HznSwWRtLmC8jzj/download) | ![Gestionnaire de Skins](https://files.prismodev.fr/index.php/s/58PEyG3Y6sSbZeN/download) | ![Galerie](https://files.prismodev.fr/index.php/s/4wBHfz7P6KiQcrC/download) |
 
 | Paramètres | Addons |
 | :---: | :---: |
-| ![Paramètres](https://files.prismodev.fr/s/bwZJLogGt4g4Q9m/download) | ![Gestionnaire d'Addons](https://files.prismodev.fr/s/cmnqSWpCY6Ldt8M/download) |
+| ![Paramètres](https://files.prismodev.fr/index.php/s/sKpjBdAKwqk6iiK/download) | ![Gestionnaire d'Addons](https://files.prismodev.fr/index.php/s/Fy8CBAr6iBHdz2P/download) |
 
 ---
 
@@ -78,7 +78,7 @@ Pipeline entièrement automatisé avec **GitHub Actions** :
 - 🚀 **Déploiement via SFTP** vers le serveur de mise à jour.
 - 🧾 **Génération dynamique** du manifeste `release.json` (signatures, hash, URLs).
 
-![GitHub Workflow](https://files.prismodev.fr/s/TJtjjSZFC9rHRWX/download)
+![GitHub Workflow](https://files.prismodev.fr/index.php/s/G5YEqLMtaXwHy9A/download)
 
 ### 🔒 Backend & Communication
 - **Rust/Tauri** : cœur applicatif, IPC et gestion du runtime.
@@ -99,7 +99,7 @@ Un système propriétaire de synchronisation contrôle la cohérence du contenu 
 - 🔍 **Synchronisation intelligente** des mods et assets.
 - 🧰 **Interface web admin** pour piloter le manifeste en direct.
 
-![File Integrity Manager](https://files.prismodev.fr/s/7BdJjnGGnaG9WBM/download)
+![File Integrity Manager](https://files.prismodev.fr/index.php/s/kRePbJ3K4BCk2ns/download)
 
 ---
 
@@ -133,7 +133,7 @@ Créer un launcher **natif, multi-plateforme et automatisé** a impliqué plusie
 
 ## 👤 Crédits
 
-**Développé par :** Sasha Da Silva [C4ptainF0xy] [PrismoDEV](https://files.prismodev.fr/s/qrPfeMBFz8KXJD8/download)  
+**Développé par :** Sasha Da Silva [C4ptainF0xy] [PrismoDEV](https://prismodev.fr)  
 **Rôle :** Conception, développement full-stack, CI/CD, architecture logicielle, UX/UI design  
 **Projet :** Propriétaire – [FCCKingdom.fr](https://fcckingdom.fr)
 
