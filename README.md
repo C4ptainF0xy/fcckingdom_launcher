@@ -139,6 +139,16 @@ Créer un launcher **natif, multi-plateforme et automatisé** a impliqué plusie
 
 ---
 
+## ⚠️ Licence et Droits d'Auteur
+
+Ce projet est sous **licence propriétaire**. Le code est visible publiquement 
+uniquement à des fins de **portfolio et de démonstration technique**.
+
+**Aucune utilisation, modification, copie ou redistribution n'est autorisée** 
+sans autorisation écrite préalable.
+
+📧 Contact pour autorisation : sashadasilva@prismodev.fr
+
 <div align="center">
   <sub>🧠 Ce projet illustre une approche professionnelle du développement full-stack multiplateforme.<br>
   📬 Contact : <b>sashadasilva@prismodev.fr</b></sub>
